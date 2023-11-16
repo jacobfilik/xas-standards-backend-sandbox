@@ -3,14 +3,7 @@ xas-standards-backend-sandbox
 
 |code_ci| |docs_ci| |coverage| |pypi_version| |license|
 
-.. note::
-
-    This project contains template code only. For documentation on how to
-    adopt this skeleton project see
-    https://DiamondLightSource.github.io/python3-pip-skeleton-cli
-
-This is where you should write a short paragraph that describes what your module does,
-how it does it, and why people should use it.
+Sandbox test project
 
 ============== ==============================================================
 PyPI           ``pip install xas-standards-backend-sandbox``
@@ -19,9 +12,7 @@ Documentation  https://jacobfilik.github.io/xas-standards-backend-sandbox
 Releases       https://github.com/jacobfilik/xas-standards-backend-sandbox/releases
 ============== ==============================================================
 
-This is where you should put some images or code snippets that illustrate
-some relevant examples. If it is a library then you might put some
-introductory code here:
+Sandbox test project
 
 .. code-block:: python
 
