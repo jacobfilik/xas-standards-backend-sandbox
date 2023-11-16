@@ -12,7 +12,7 @@ Documentation  https://jacobfilik.github.io/xas-standards-backend-sandbox
 Releases       https://github.com/jacobfilik/xas-standards-backend-sandbox/releases
 ============== ==============================================================
 
-Sandbox test project
+Sandbox test project.
 
 .. code-block:: python
 
